@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'keranjang.dart'; // Keranjang Belanja
-import 'tentangsaya.dart'; // Profil Pengguna
+// Profil Pengguna
 import 'produk.dart'; // Model Produk
 
 // Daftar produk yang akan ditampilkan

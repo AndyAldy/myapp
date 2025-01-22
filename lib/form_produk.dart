@@ -7,7 +7,7 @@ class FormProdukScreen extends StatefulWidget {
   final Produk? produk;
   final Function(Produk) onSimpan;
 
-  FormProdukScreen({super.key, this.produk, required this.onSimpan});
+  const FormProdukScreen({super.key, this.produk, required this.onSimpan});
 
   @override
   _FormProdukScreenState createState() => _FormProdukScreenState();

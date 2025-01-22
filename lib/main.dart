@@ -9,7 +9,7 @@ import 'lupa_sandi.dart';
 import 'logout.dart';
 
 void main() {
-  runApp(FreshMarket());
+  runApp(const FreshMarket());
 }
 
 class FreshMarket extends StatelessWidget {

@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'beranda.dart';
-import 'register.dart';
-import 'lupa_sandi.dart'; // Import halaman lupa sandi
+// Import halaman lupa sandi
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});

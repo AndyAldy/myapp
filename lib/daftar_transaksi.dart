@@ -38,14 +38,14 @@ class DaftarTransaksiScreen extends StatelessWidget {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Row(
+                          const Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              const Text(
+                              Text(
                                 'Fresh Market',
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
-                              const Text(
+                              Text(
                                 'Dikemas',
                                 style: TextStyle(color: Colors.green),
                               ),

@@ -60,10 +60,7 @@ flutter:
     - img/pisang.png
     - img/jeruk.png
     - img/tomat.png
-  fonts:
-    - family: Poppins
-      fonts:
-        - asset: fonts/Poppins-Regular.ttf
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
